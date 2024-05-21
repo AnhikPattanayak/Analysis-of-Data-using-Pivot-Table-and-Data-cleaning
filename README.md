@@ -1,2 +1,2 @@
-# Analysis-of-Data-using-Pivot-Table-and-Data-cleaning
+# Data Analysis - MS Excel
 Analyse data using data cleaning and pivot table.
